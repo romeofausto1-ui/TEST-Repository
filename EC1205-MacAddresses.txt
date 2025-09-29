@@ -1,0 +1,9 @@
+0E:10:32:09:0E:21 - EC1205 Kitchen
+0E:10:10:09:09:3A - EC1205 Living Room
+0E:10:08:08:0B:3A - EC1205 Study Room
+0F:15:1B:0E:0F:31 - EC1205 Matteo Room
+0E:10:22:08:0B:37 - EC1205 Bed Room
+0E:10:30:08:10:18 - EC1205 Veranda
+
+
+
